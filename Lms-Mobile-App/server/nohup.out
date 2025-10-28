@@ -1,0 +1,12 @@
+
+> server@1.0.0 dev
+> ts-node-dev --respawn --transpile-only server.ts
+
+[INFO] 00:28:13 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.1, typescript ver. 5.1.6)
+Redis connected
+Server is connected with port 8000
+Database connected with ac-huweh3h-shard-00-00.ygomaui.mongodb.net
+contactsanket1@gmail.com Sanket@3030
+NODE_ENV: development
+Running in development mode for email: testuser123@example.com
+Creating new user in development mode
